@@ -1,0 +1,40 @@
+# List of basic operations necessary for the car to function
+
+Basic functions
+  Acceleration
+  Braking
+  Turning (fly by wire?)
+  Airbag control/collision detection
+  headlights
+  brakelights
+  indicator lights (turn signals/blinkers)
+  reverse lights
+  windshield wipers
+  rear defrost
+  front defrost (part of A/C system, but more important)
+  anti-lock braking
+
+QoL and legal requirements
+  Speedometer
+  engine RPM gauge
+  engine heat gauge
+  fuel gauge
+  battery gauge
+  seat belt check
+  odometer
+  trip odometer
+  mpg gauge
+  miles left in tank gauge
+  temperature gauge
+  Air conditioning system (cool/heat)
+  Horn
+  Door locks
+  Window controls
+  sound system/audio system
+
+Advanced detection
+  engine sensors
+  wheel pressure monitors
+  door ajar monitors
+  side mirror motor controls
+  
